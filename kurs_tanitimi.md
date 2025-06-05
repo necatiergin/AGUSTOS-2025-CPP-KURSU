@@ -130,5 +130,5 @@ Bireysel katılımcılar kurs ücretini 2 taksit olarak ödeyebilirler.
 
 
 ## Eğitim Programına Kayıt
-&#128279;__[Katılım için önce ön kayıt yaptırmalısınız](https://us02web.zoom.us/meeting/register/tZAlcu-grz0vGtGVL0zN1twyEorBXVKrne_E)__. 
+&#128279;__[Katılım için önce ön kayıt yaptırmalısınız](https://us02web.zoom.us/meeting/register/GK0hZcDRSsqgxqZ-FwxKTw)__. 
 Ön kayıt yaptırırken kendi isminizi ve e-posta adresinizi kullanmalısınız.
