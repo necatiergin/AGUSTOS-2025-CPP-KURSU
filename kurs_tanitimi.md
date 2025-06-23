@@ -26,7 +26,7 @@ _C++20_ standartları hakkında genel bilgiler verilmektedir.<br>
 &#9888;Bu kursta __C++__ dilinin _C_ dilinden aldığı temel sentaks ve araçlar anlatılmadığından bu programa katılabilmek için belirli seviyede _C_ bilmeniz gerekmektedir.<br> &#9888;Programa uygun olup olmadığınız konusunda şüpheleriniz varsa &#128279;__[Necati Ergin](https://www.linkedin.com/in/necati-ergin-045768176/)__ ile görüşebilirsiniz.
 
 ## Eğitim Süresi
-&#9200; Programın toplam süresi __200__ saattir. 
+&#9200; Programın toplam süresi __220__ saattir. 
 
 ## Ders Günleri ve Saatleri
 &#128197; &#9200;	Dersler __Salı, Perşembe ve Cuma__ günleri __19:30 – 22.30__ saatleri arasında __3’er saat__ olarak yapılacaktır.
@@ -123,7 +123,7 @@ __C++__ kursu ilgili eğitim materyalleri program süresince öğrencilerle payl
 Derslerde yazılan tüm kodlar ve verilen ödevler katılımcılar ile __github__ üzerinden paylaşılmaktadır.
 
 ## Eğitim Ücreti
-Programın toplam ücreti __35.000__ &#8378;'dir. Öğrenci olanlar için kurs ücreti __32.000__ &#8378;'dir. 
+Programın toplam ücreti __45.000__ &#8378;'dir. Öğrenci olanlar için kurs ücreti __40.000__ &#8378;'dir. 
 Kurumsal katılımlarda kurs ücretine **KDV** dahil değildir. 
 Bireysel katılımlarda kurs ücretine **KDV** dahildir. 
 Bireysel katılımcılar kurs ücretini 2 taksit olarak ödeyebilirler.
