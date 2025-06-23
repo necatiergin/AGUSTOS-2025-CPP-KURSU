@@ -7,18 +7,18 @@
 👨 [Kurs eğitmeni](https://github.com/necatiergin/OCAK_2025_CPP_KURSU/blob/main/kurs_egitmeni.md)
 **&#128279;[Necati Ergin](https://www.linkedin.com/in/necati-ergin-045768176/)**'dir.
 
-✅ Kurs **22 Temmuz 2025 Salı** günü başlayacaktır.
+✅ Kurs **12 Ağustos 2025 Salı** günü başlayacaktır.
 
 ⏰ Dersler **Salı, Perşembe ve Cuma günleri 19:30 - 22:30** saatleri arasında (Haftada 9 saat) yapılacaktır.
 
-⌛ Kursun toplam süresi **200** saattir.
+⌛ Kursun toplam süresi **220** saattir.
 
 ℹ️ Dersler Zoom platformu üzerinden gerçek zamanlı ve online olarak yapılmaktadır.<br> 
 Öğrenciler ders sırasında eğitmene soru sorabilirler.<br>
 Öğrenciler katılmadıkları ya da tekrar etmek istedikleri dersleri kurs sistemimiz üzerinden de izleyebilirler.<br>
 
-✅ Programın toplam ücreti **35.000 TL**'dir. <br>
-Öğrenci olanlar için kurs ücreti **32.000** TL'dir. Kurs ücreti 2 taksit olarak ödenebilir.<br>
+✅ Programın toplam ücreti **45.000 TL**'dir. <br>
+Öğrenci olanlar için kurs ücreti **40.000** TL'dir. Kurs ücreti 2 taksit olarak ödenebilir.<br>
 Kurumsal katılımlarda kurs ücretine KDV dahil değildir. Bireysel katılımlar için kurs ücretine KDV dahildir. 
 
 ✅ Kursta Modern C++ anlatılmaktadır. C++11, C++14, C++17 ve C++20 standartları ile dile eklenen sentaks öğeleri ve standart kütüphane bileşenleri eğitimde ayrıntılı olarak ele alınmaktadır. C++ dilinin standart kütüphanesi ve bu kütüphanenin en önemli bileşeni olan STL ayrıntılı bir şekilde ele alınmaktadır.
