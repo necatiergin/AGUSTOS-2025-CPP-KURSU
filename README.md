@@ -27,6 +27,8 @@ Kurumsal katılımlarda kurs ücretine KDV dahil değildir. Bireysel katılımla
 
 ## Kursla ilgili bağlantılar:
 &#128279; [Kursa kayıt olmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/GK0hZcDRSsqgxqZ-FwxKTw)
+
+
 ![kurs tanıtım görseli](https://github.com/necatiergin/AGUSTOS-2025-CPP-KURSU/blob/main/cpp_kurs_gorseli.png)
 
 <!---
