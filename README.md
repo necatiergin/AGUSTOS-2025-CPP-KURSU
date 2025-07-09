@@ -30,10 +30,11 @@ Kurumsal katılımlarda kurs ücretine KDV dahil değildir. Bireysel katılımla
 
 
 ![kurs tanıtım görseli](https://github.com/necatiergin/AGUSTOS-2025-CPP-KURSU/blob/main/cpp_kurs_gorseli.png)
+&#128279; [Kurs İçeriği](https://github.com/necatiergin/kurs_programlari/blob/main/cplusplus_kurs_icerigi.md)<br>
 
 <!---
 &#128279; [Kursun Genel Tanıtımı](https://github.com/necatiergin/OCAK_2025_CPP_KURSU/blob/main/kurs_tanitimi.md)<br>
-&#128279; [Kurs İçeriği](https://github.com/necatiergin/kurs_programlari/blob/main/cplusplus_kurs_icerigi.md)<br>
+
 
 
 
