@@ -9,7 +9,7 @@
 
 ✅ Kurs **12 Ağustos 2025 Salı** günü başlayacaktır.
 
-⏰ Dersler **Salı, Perşembe ve Cuma günleri 19:30 - 22:30** saatleri arasında (Haftada 9 saat) yapılacaktır.
+⏰ Dersler **Salı, Perşembe ve Cuma günleri 19:30 - 22:30** saatleri arasında **(Haftada 9 saat)** yapılacaktır.
 
 ⌛ Kursun toplam süresi **220** saattir.
 
