@@ -1,4 +1,4 @@
-#### AĞUSTODS 2025 C++ PROGRAMLAMA DİLİ KURSU
+#### AĞUSTOS 2025 C++ PROGRAMLAMA DİLİ KURSU
 
 ✅ Bu kurs katılımcıların öncelikle C++ programlama dilini çok iyi öğrenmelerini ve yazılım üretiminde profesyonel düzeyde bu dili kullanma becerisi edinmelerini hedeflemektedir.
 
