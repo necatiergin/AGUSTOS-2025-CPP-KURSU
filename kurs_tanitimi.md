@@ -123,8 +123,8 @@ __C++__ kursu ilgili eğitim materyalleri program süresince öğrencilerle payl
 Derslerde yazılan tüm kodlar ve verilen ödevler katılımcılar ile __github__ üzerinden paylaşılmaktadır.
 
 ## Eğitim Ücreti
-Programın toplam ücreti __45.000__ &#8378;'dir. Peşin ödemede **40.000 TL**'dir. Öğrenci olanlar için kurs ücreti __40.000__ &#8378;'dir. 
-Peşin ödemede kurs ücreti **35.000 TL**'dir.
+Programın toplam ücreti **45.000 TL**'dir. Peşin ödemede **40.000 TL**'dir. <br>
+Öğrenci olanlar için kurs ücreti **40.000 TL**'dir. Peşin ödemede kurs ücreti **35.000 TL**'dir. <br>
 Kurumsal katılımlarda kurs ücretine **KDV** dahil değildir. 
 Bireysel katılımlarda kurs ücretine **KDV** dahildir. 
 Bireysel katılımcılar kurs ücretini 2 taksit olarak ödeyebilirler.
