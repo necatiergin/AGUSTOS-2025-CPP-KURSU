@@ -17,7 +17,7 @@
 Öğrenciler ders sırasında eğitmene soru sorabilirler.<br>
 Öğrenciler katılmadıkları ya da tekrar etmek istedikleri dersleri kurs sistemimiz üzerinden de izleyebilirler.<br>
 
-✅ Programın toplam ücreti **45.000 TL**'dir. Peşin ödemede **45.000 TL**'dir.<br>
+✅ Programın toplam ücreti **45.000 TL**'dir. Peşin ödemede **40.000 TL**'dir.<br>
 Öğrenci olanlar için kurs ücreti **40.000 TL**'dir. Peşin ödemede **35.000 TL**'dir.Kurs ücreti 2 taksit olarak ödenebilir.<br>
 Kurumsal katılımlarda kurs ücretine KDV dahil değildir. Bireysel katılımlar için kurs ücretine KDV dahildir. 
 
