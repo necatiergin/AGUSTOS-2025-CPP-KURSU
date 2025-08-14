@@ -125,9 +125,7 @@ Derslerde yazılan tüm kodlar ve verilen ödevler katılımcılar ile __github_
 ## Eğitim Ücreti
 Programın toplam ücreti **45.000 TL**'dir. Peşin ödemede **40.000 TL**'dir. <br>
 Öğrenci olanlar için kurs ücreti **40.000 TL**'dir. Peşin ödemede kurs ücreti **35.000 TL**'dir. <br>
-Kurumsal katılımlarda kurs ücretine **KDV** dahil değildir. 
-Bireysel katılımlarda kurs ücretine **KDV** dahildir. 
-Bireysel katılımcılar kurs ücretini 2 taksit olarak ödeyebilirler.
+**Bireysel katılımcılar kurs ücretini 4 taksit olarak ödeyebilirler.**
 
 
 ## Eğitim Programına Kayıt
