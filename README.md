@@ -17,6 +17,8 @@
 Öğrenciler ders sırasında eğitmene soru sorabilirler.<br>
 Öğrenciler katılmadıkları ya da tekrar etmek istedikleri dersleri kurs sistemimiz üzerinden de izleyebilirler.<br>
 
+ℹ️ **Kursun ilk 3 dersine misafir olarak katılabilirsiniz. Bu durumda kayıt formunda "misafir olarak katılıyorum" seçeneğini  işaretleyiniz.**
+
 ✅ Programın toplam ücreti **45.000 TL**'dir. Peşin ödemede **40.000 TL**'dir.<br>
 Öğrenci olanlar için kurs ücreti **40.000 TL**'dir. Peşin ödemede **35.000 TL**'dir. <br>
 **Kurs ücreti 4 taksit olarak ödenebilir.<br>**
