@@ -1,4 +1,5 @@
-#### AĞUSTOS 2025 C++ PROGRAMLAMA DİLİ KURSU
+### KURS KAYITLARI DEVAM ETMEKTEDİR.<br>
+KURSA KAYIT OLAN ÖĞRENCİLER GEÇMİŞ DERSLERİ KAYITLARDAN İZLEYEBİLİRLER.
 
 ✅ Bu kurs katılımcıların öncelikle C++ programlama dilini çok iyi öğrenmelerini ve yazılım üretiminde profesyonel düzeyde bu dili kullanma becerisi edinmelerini hedeflemektedir.
 
